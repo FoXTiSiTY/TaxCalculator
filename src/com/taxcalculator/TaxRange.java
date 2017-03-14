@@ -1,3 +1,4 @@
+package com.taxcalculator;
 
 public class TaxRange
 {
